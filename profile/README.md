@@ -16,19 +16,17 @@
 [![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
 
 ---
-<div align="center">
 
-## 🌐 Traduções
-  
 <h4 align="center">
+
+   ## 🌐 Traduções   
+
   <a href="./README.md">🇧🇷 Português</a> |
   <a href="./README.en.md">🇺🇸 English</a> |
   <a href="./README.zh.md">🇨🇳 简体中文</a> |
   <a href="./README.ja.md">🇯🇵 日本語</a>  |
   <a href="./README.ru.md">🇷🇺 русский</a>
 </h4>
-
-</div>
 
 ---
 
