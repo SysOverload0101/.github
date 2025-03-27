@@ -17,7 +17,8 @@
 
 ---
 
-<h4 align="center">
+<div align="center">
+<h4>
 
    ## 🌐 Traduções   
 
@@ -27,6 +28,8 @@
   <a href="./README.ja.md">🇯🇵 日本語</a>  |
   <a href="./README.ru.md">🇷🇺 русский</a>
 </h4>
+
+</div>
 
 ---
 
