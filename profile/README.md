@@ -13,7 +13,8 @@
 
 ## 🛜 Redes
 
-[![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)
+[![YouTube](https://img.shields.io/badge/YouTube-SysOverload0101-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SysOverload0101)  
+[![Instagram](https://img.shields.io/badge/Instagram-SysOverload0101-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sysoverload0101/)
 
 ---
 
